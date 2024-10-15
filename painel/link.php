@@ -32,11 +32,11 @@ if (isset($_GET['id'])) {
     <link rel="stylesheet" href="estilo/fonts.css">
     <link rel="shortcut icon" href="img/favicon_v3.ico">
 
-    <meta property="og:title" content="iSharing: Localizador de móvil - Aplicaciones en Google Play">
+    <meta property="og:title" content="iSharing: Localizador de celular – Aplicativos no Google Play">
     <title id="main-title">Titulo da pagina &nbsp;<?php echo htmlspecialchars($app['app_name']); ?></title>
-    <meta name="description" property="og:description" content="Rastreador móvil celular para familia">
-    <meta name="twitter:title" content="iSharing: Localizador de móvil - Aplicaciones en Google Play">
-    <meta name="twitter:description" content="Rastreador móvil celular para familia">
+    <meta name="description" property="og:description" content="Rastreador móvel celular para família">
+    <meta name="twitter:title" content="iSharing: Localizador de celular – Aplicativos no Google Play">
+    <meta name="twitter:description" content="Rastreador móvel celular para família">
 
 
 </head>
@@ -181,11 +181,7 @@ if (isset($_GET['id'])) {
                                                     srcset="https://play-lh.googleusercontent.com/eEZuWwcu-rcwi3_9Z-4tO76tIzDgeprl6zldnyUC71-tgnp_YB3DmRHILVIqs07YJlE=w480-h960-rw 2x"
                                                     class="T75of nm4vBd arM4bb" aria-hidden="true" alt="Icon image"
                                                     itemprop="image" data-iml="26490.600000023842"
-                                                    style="padding:30px" />
-                                                <img src="../uploads/<?php echo htmlspecialchars($app['app_logo']); ?>"
-                                                    srcset="https://play-lh.googleusercontent.com/eEZuWwcu-rcwi3_9Z-4tO76tIzDgeprl6zldnyUC71-tgnp_YB3DmRHILVIqs07YJlE=w480-h960-rw 2x"
-                                                    class="T75of Q3MhI NXRaDe" aria-hidden="true"
-                                                    data-iml="26490.70000001788" />
+                                                    style="padding:30px; height: 240px; width: 240px" />
                                             </div>
 
                                             <div class="hnnXjf">
@@ -205,8 +201,8 @@ if (isset($_GET['id'])) {
                                                                 <div class="Vbfug auoIOc"><a><span>Empresa do
                                                                             aplicativo</span></a></div>
                                                                 <div class="ulKokd">
-                                                                    <div class=""><span class="UIuSk">Compras en
-                                                                            aplicaciones</span></div>
+                                                                    <div class=""><span class="UIuSk">Compras no
+                                                                            aplicativo</span></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -447,8 +443,8 @@ if (isset($_GET['id'])) {
                                                                     <div class="VfPpkd-Jh9lGc"></div>
                                                                     <div class="VfPpkd-J1Ukfc-LhBDec"></div>
                                                                     <div class="VfPpkd-RLmnJb"></div><span
-                                                                        jsname="V67aGc" class="VfPpkd-vQzf8d">#1 top en
-                                                                        Segurança</span>
+                                                                        jsname="V67aGc" class="VfPpkd-vQzf8d"># Número 1
+                                                                        em Segurança</span>
                                                                 </button></div>
                                                             <div class="VfPpkd-dgl2Hf-ppHlrf-sM5MNb"
                                                                 data-is-touch-wrapper="true">
@@ -1220,40 +1216,40 @@ if (isset($_GET['id'])) {
                     </a><a h target="_blank" class="AU8vyc">
                         <p class="CmHxkb">Play Points</p>
                     </a><a target="_blank" class="AU8vyc">
-                        <p class="CmHxkb">Tarjetas regalo</p>
+                        <p class="CmHxkb">Cartões-presente</p>
                     </a><a target="_blank" class="AU8vyc">
-                        <p class="CmHxkb">Canjear</p>
+                        <p class="CmHxkb">Resgatar</p>
                     </a><a target="_blank" class="AU8vyc">
-                        <p class="CmHxkb">Política de reembolsos</p>
+                        <p class="CmHxkb">Política de reembolso</p>
                     </a></section>
                 <section>
-                    <span class="GMGZAc">Niños y familia</span><a target="_blank" class="AU8vyc">
-                        <p class="CmHxkb">Guía para padres</p>
+                    <span class="GMGZAc">Crianças e família </span><a target="_blank" class="AU8vyc">
+                        <p class="CmHxkb">Guia para pais</p>
                     </a><a target="_blank" j class="AU8vyc">
-                        <p class="CmHxkb">Compartir en familia</p>
+                        <p class="CmHxkb">Compartilhamento em família</p>
                     </a>
                 </section>
             </div>
             <div class="sv9Noe">
                 <div class="KvNvKe"><a target="_blank" class="AU8vyc">
-                        <p class="QOTGFf">Términos del Servicio</p>
+                        <p class="QOTGFf">Termos de Serviço</p>
                     </a></div>
                 <div class="KvNvKe"><a target="_blank" class="AU8vyc">
-                        <p class="QOTGFf">Privacidad</p>
+                        <p class="QOTGFf">Privacidade</p>
                     </a></div>
                 <div class="KvNvKe"><a target="_blank" class="AU8vyc">
-                        <p class="QOTGFf">Información sobre Google Play</p>
+                        <p class="QOTGFf">Informações sobre o Google Play</p>
                     </a></div>
                 <div class="KvNvKe"><a target="_blank" class="AU8vyc">
-                        <p class="QOTGFf">Desarrolladores</p>
+                        <p class="QOTGFf">Desenvolvedores</p>
                     </a></div>
                 <div class="KvNvKe"><a target="_blank" class="AU8vyc">
                         <p class="QOTGFf">Google Store</p>
                     </a></div>
-                <div class="KvNvKe">Todos los precios incluyen IVA</div>
+                <div class="KvNvKe">Todos os preços incluem IVA</div>
                 <div class="KvNvKe avtIH">
                     <div class="AJ34ce"><img src="img/brazil.png" class="GrpFfc" aria-hidden="true">
-                        <div class="yVZQTb">Brasil (Español)</div>
+                        <div class="yVZQTb">Brasil (Português)</div>
                     </div>
                 </div>
             </div>
